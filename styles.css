@@ -55,12 +55,12 @@ html, body
         color:white;
         filter: blur(0);
         opacity: 0.5;
-        text-shadow:0 0 20px #6479e4;
+        text-shadow:0 0 20px #222e42;
     }
     80%{
         color:white;
         filter: blur(0);
-        text-shadow:0 0 20px #6479e4;
+        text-shadow:0 0 20px #222e42;
     }
     100%{
         color: #222e42;
